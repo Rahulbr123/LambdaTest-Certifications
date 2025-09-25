@@ -5,8 +5,8 @@
 
 1. Clone the repo or launch via Gitpod.
 2. Add your LambdaTest credentials:
-   String username = "sangramkesharisamal";
-   String accessKey = "LT_4AXPBiQHenyvY4SKvoeE9FlLsw1hLKXQWJMeOd7S3gGpLuV";
+   String username = "Rahul.b.r@capgemini.com";
+   String accessKey = "Iphone14plus@2024";
 
 
 Gitpod will automatically:
@@ -24,7 +24,7 @@ This project automates browser testing using **Selenium WebDriver**, **Java**, a
 
 Click below to launch the project in Gitpod:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Sangram-keshari/LambdaTest-Certifications)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/https://github.com/Rahulbr123/LambdaTest-Certifications.git)
 
 
 ---
